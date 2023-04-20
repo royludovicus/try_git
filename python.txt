@@ -1,0 +1,5 @@
+file = open(/*.*)
+text = file.read ()
+file.close ()
+print (text)
+The above opens and reads a text file.

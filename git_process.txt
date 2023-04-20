@@ -1,0 +1,4 @@
+Create new repo on Git-Hub.
+Clone to local pc using SSH (green code button).
+On local pc use git clone with SSH url.
+Here are the local pc commands:
